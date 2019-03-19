@@ -1,33 +1,22 @@
 # 001
 
-## Project setup
+## 学习了vue写的一个美团的移动端页面
+
+## 下载项目依赖包
 ```
 npm install
 ```
 
-### Local data is emulated using json-server
+### 还需要使用json-server来模拟本地数据库
 ```
 json-server db.json
 ```
-### Compiles and hot-reloads for development
+### 运行项目
 ```
 npm run serve
 ```
 
-### Compiles and minifies for production
+### 打包
 ```
 npm run build
 ```
-
-### Run your tests
-```
-npm run test
-```
-
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
